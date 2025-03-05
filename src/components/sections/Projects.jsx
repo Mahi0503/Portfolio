@@ -20,7 +20,7 @@ export const Projects = () => {
                 monitoring and automated scaling.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["React", "Node.js", "AWS", "Docker"].map((tech, key) => (
+                {["React", "SpringBoot", "AWS", "Docker"].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 
@@ -94,7 +94,7 @@ export const Projects = () => {
                 integration, and customizable product inventory.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Next.js", "TypeScript", "Stripe", "PostgreSQL"].map(
+                {["React", "Javascript", "SpringBoot", "PostgreSQL"].map(
                   (tech) => (
                     <span
                       key={tech}
@@ -135,7 +135,7 @@ export const Projects = () => {
                 and group chat features.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Socket.IO", "Express", "React", "Redis"].map((tech, key) => (
+                {["SpringBoot", "SpringAI", "React", "MYSQL"].map((tech, key) => (
                   <span
                     key={key}
                     className="

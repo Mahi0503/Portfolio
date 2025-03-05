@@ -9,7 +9,7 @@ export const About = () => {
     "Svelte",
   ];
 
-  const backendSkills = ["Java", "SprinBoot", "Microservices", "MySQL", "Kafka"];
+  const backendSkills = ["Java 8", "SprinBoot", "Micro-services", "MySQL", "Kafka","JWT","Hibernate"];
 
   return (
     <section
@@ -84,7 +84,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
+                    Software Engineer at ThinkNext Technologies (2024- 2025){" "}
                   </h4>
                   <p>
                     Developed and maintained microservices for cloud-based
